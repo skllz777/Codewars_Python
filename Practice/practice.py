@@ -1,5 +1,4 @@
-def number(lines):
-    answer = []
-    for i in range(0, len(lines)):
-
+a = 45
+b = 65
+c = 180 - (sum(a, b))
 
